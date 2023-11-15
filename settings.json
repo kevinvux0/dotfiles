@@ -1,6 +1,6 @@
 {
   "editor.detectIndentation": false,
-  "editor.fontFamily": "Iosevka, monospace",
+  "editor.fontFamily": "'Iosevka Extended', monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 18,
   "editor.formatOnSave": true,
