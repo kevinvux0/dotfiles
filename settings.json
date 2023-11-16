@@ -1,4 +1,8 @@
 {
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
   "editor.detectIndentation": false,
   "editor.fontFamily": "'Fira Code', monospace",
   "editor.fontLigatures": true,
