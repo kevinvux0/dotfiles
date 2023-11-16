@@ -23,5 +23,6 @@
   "workbench.activityBar.location": "hidden",
   "workbench.colorTheme": "GitHub Dark Default",
   "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
   "workbench.statusBar.visible": false
 }
