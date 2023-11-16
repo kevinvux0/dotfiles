@@ -17,7 +17,7 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.cursorStyleInactive": "none",
   "terminal.integrated.enableMultiLinePasteWarning": false,
-  "terminal.integrated.fontFamily": "'Fira Code', monospace",
+  "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
   "terminal.integrated.fontSize": 18,
   "window.commandCenter": false,
   "workbench.activityBar.location": "hidden",
