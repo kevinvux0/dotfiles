@@ -4,8 +4,8 @@
     "source.organizeImports": true
   },
   "editor.detectIndentation": false,
-  "editor.fontFamily": "'Fira Code', monospace",
-  "editor.fontLigatures": true,
+  "editor.fontFamily": "'JetBrains Mono', monospace",
+  "editor.fontLigatures": "'calt', 'ss02', 'ss19', 'zero'",
   "editor.fontSize": 18,
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "all",
