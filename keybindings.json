@@ -16,9 +16,5 @@
         "command": "-workbench.action.terminal.openNativeConsole",
         "key": "shift+cmd+c",
         "when": "!terminalFocus"
-    },
-    {
-        "key": "shift+alt+space",
-        "command": "C_Cpp.BuildAndRunFile"
     }
 ]
