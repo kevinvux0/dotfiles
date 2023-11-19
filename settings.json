@@ -1,7 +1,8 @@
 {
+  "C_Cpp.clang_format_style": "{BasedOnStyle: Google}",
   "editor.codeActionsOnSave": {
-    "source.fixAll": true,
-    "source.organizeImports": true
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
   },
   "editor.detectIndentation": false,
   "editor.fontFamily": "'JetBrains Mono', monospace",
@@ -23,6 +24,5 @@
   "workbench.activityBar.location": "hidden",
   "workbench.colorTheme": "GitHub Dark Default",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.sideBar.location": "right",
-  "workbench.statusBar.visible": false
+  "workbench.sideBar.location": "right"
 }
