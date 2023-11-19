@@ -1,20 +1,24 @@
 [
-  {
-    "command": "workbench.scm.focus",
-    "key": "shift+cmd+c",
-    "when": "viewContainer.workbench.view.explorer.enabled"
-  },
-  {
-    "command": "editor.action.sortLinesAscending",
-    "key": "shift+cmd+'"
-  },
-  {
-    "command": "json.sort",
-    "key": "shift+cmd+/"
-  },
-  {
-    "command": "-workbench.action.terminal.openNativeConsole",
-    "key": "shift+cmd+c",
-    "when": "!terminalFocus"
-  }
+    {
+        "command": "workbench.scm.focus",
+        "key": "shift+cmd+c",
+        "when": "viewContainer.workbench.view.explorer.enabled"
+    },
+    {
+        "command": "editor.action.sortLinesAscending",
+        "key": "shift+cmd+'"
+    },
+    {
+        "command": "json.sort",
+        "key": "shift+cmd+/"
+    },
+    {
+        "command": "-workbench.action.terminal.openNativeConsole",
+        "key": "shift+cmd+c",
+        "when": "!terminalFocus"
+    },
+    {
+        "key": "shift+alt+space",
+        "command": "C_Cpp.BuildAndRunFile"
+    }
 ]
